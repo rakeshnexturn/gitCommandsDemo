@@ -1,0 +1,6 @@
+This is a smaple file used to demo the git commands.
+We are learnig git VCS.
+Adding a new line.
+Updating the file post o local repo.
+Updating the file after commiting to the local repo.
+New changes before staging.
